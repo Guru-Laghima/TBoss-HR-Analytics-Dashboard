@@ -40,10 +40,6 @@ Contains employee-level data on demographics, salary, tenure, department, busine
 - Page 2: **Compensation & Talent Deep Dive** – detailed salary analysis, increment insights, top earners, and an employee explorer table.
 - Applied consistent filters (Department, Business Unit, Country, Gender, Ethnicity, Age Group) across both pages for seamless exploration.
 
-## Dashboard Preview
-![TBoss HR - Executive Overview](image-link-1)
-![TBoss HR - Compensation & Talent Deep Dive](image-link-2)
-
 ## Recommendations and Insights
 1. **Gender Balance**  
    The workforce is nearly balanced (51.8% Female, 48.2% Male).  
