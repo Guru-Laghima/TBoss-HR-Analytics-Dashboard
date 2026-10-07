@@ -4,7 +4,7 @@
 ## Project Title
 TBoss HR Analytics – Executive Overview & Compensation Deep Dive
 
-## Project Objectives
+Project Objectives
 - To analyze the complete workforce profile of TBoss across demographics, departments, and business units.
 - To uncover trends in hiring, tenure, salary distribution, and increment patterns.
 - To build interactive dashboards that give leadership a clear, data-driven view of the organization’s human capital.
