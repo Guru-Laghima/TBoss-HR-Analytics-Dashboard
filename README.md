@@ -10,7 +10,7 @@ TBoss HR Analytics – Executive Overview & Compensation Deep Dive
 - To identify gaps and opportunities that support better talent management, compensation decisions, and diversity initiatives.
 
 ## Dataset Used
-Dataset: TBoss HR Employee Records (fictional / sample dataset)  
+Dataset: TBoss HR Employee Records 
 Contains employee-level data on demographics, salary, tenure, department, business unit, country, ethnicity, and salary increments.
 
 ## Key Questions Explored
