@@ -43,6 +43,8 @@ Contains employee-level data on demographics, salary, tenure, department, busine
 ## Dashboard Preview
 <img width="1038" height="881" alt="Screenshot 2026-09-24 163605" src="https://github.com/user-attachments/assets/b920f4c3-e3a9-4e76-9e3a-ff1547a68372" />
 
+
+
 <img width="1012" height="884" alt="Screenshot 2026-09-24 163636" src="https://github.com/user-attachments/assets/d376179a-644d-459e-bff2-14fa5146eb23" />
 
 ## Recommendations and Insights
